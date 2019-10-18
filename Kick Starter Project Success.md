@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Kickstarter Predictions"
+date:   2019-10-17 12:07:25 +0000
+categories:
+  - data
+---
 
 # Predictions of the Outcome of Kickstarter Campaigns
 
